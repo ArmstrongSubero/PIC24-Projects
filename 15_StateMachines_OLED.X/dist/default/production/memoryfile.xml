@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/15_StateMachines_OLED.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>8192</length>
+      <used>1266</used>
+      <free>6926</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>131316</length>
+      <used>18978</used>
+      <free>112338</free>
+    </memory>
+  </executable>
+</project>
