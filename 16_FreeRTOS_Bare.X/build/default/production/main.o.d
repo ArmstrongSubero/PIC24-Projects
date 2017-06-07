@@ -1,0 +1,20 @@
+build/default/production/main.o:  \
+main.c  \
+PIC24_PIC33_I2C.h  \
+ PIC24FJ128GB204_STD.h  \
+mcc_generated_files/mcc.h  \
+ mcc_generated_files/pin_manager.h  \
+mcc_generated_files/traps.h  \
+ mcc_generated_files/interrupt_manager.h  \
+mcc_generated_files/i2c1.h  \
+ SSD1306_OLED.h  \
+FreeRTOS.h  \
+FreeRTOSConfig.h  \
+projdefs.h  \
+portable.h  \
+ deprecated_definitions.h  \
+portmacro.h  \
+mpu_wrappers.h  \
+task.h  \
+list.h  \
+ queue.h 
