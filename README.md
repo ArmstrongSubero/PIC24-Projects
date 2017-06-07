@@ -1,0 +1,2 @@
+# PIC24
+Projects using various 16 bit PIC24 MCUs including PIC24FJ128GB204, PIC24HJ32GP502 and PIC24FJ256GA705
